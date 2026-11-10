@@ -68,17 +68,28 @@ Download the MSI from the [official release](https://github.com/rancher-sandbox/
 
 ## Verify, run nginx, then clean up
 
-Open a new terminal or PowerShell window:
+Open a new terminal. On Linux, select Rancher Desktop’s context:
 
 ```sh
 docker context use rancher-desktop
 docker context show
+```
+
+In Windows PowerShell, keep Docker Desktop closed and select `default`, which uses the Docker named pipe:
+
+```powershell
+docker context use default
+```
+
+Then, on either system:
+
+```sh
 docker version
 docker run -d --name rancher-web -p 127.0.0.1:8080:80 nginx:alpine
 docker ps
 ```
 
-The context should be `rancher-desktop`, Docker version should include **Server**, and `rancher-web` should be running. Context selection matters when another Docker engine is installed.
+The context should match your OS as shown above, Docker version should include **Server**, and `rancher-web` should be running. Context selection matters when another Docker engine is installed.
 
 Open [localhost:8080](http://localhost:8080/) in your browser. Expect **Welcome to nginx!** In Rancher Desktop's **Containers** tab, open `rancher-web` and inspect **Logs**. Return to the list, select only that container, choose **Stop**, then **Delete** and confirm its name.
 
@@ -96,3 +107,5 @@ Rancher Desktop stays installed. Only the disposable website container is remove
 - [Installation and prerequisites](https://docs.rancherdesktop.io/getting-started/installation/)
 - [Moby versus containerd](https://docs.rancherdesktop.io/ui/preferences/container-engine/general/)
 - [Container controls](https://docs.rancherdesktop.io/ui/containers/)
+
+- [Windows named pipe and Linux socket differences](https://docs.rancherdesktop.io/how-to-guides/using-testcontainers/)
