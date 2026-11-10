@@ -10,8 +10,9 @@ Full videos cover Linux first, macOS notes, then Windows. Shorts cover one tool 
 | Docker on Arch Linux | [Install, run nginx and clean up](docker/arch-linux.md) |
 | kind: Linux, macOS notes and Windows | [Install, create cluster and clean up](kind/README.md) |
 | Podman and Podman Desktop | [Install, run nginx and clean up](podman/README.md) |
+| Rancher Desktop | [Install, select Moby and run nginx](rancher-desktop/README.md) |
 
-Docker, kind and Podman walkthroughs are available below.
+Install walkthroughs and commands are linked above.
 
 These are local development labs. No AWS account needed.
 
