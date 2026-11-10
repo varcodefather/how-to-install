@@ -55,3 +55,7 @@ docker rm install-web
 ```
 
 `127.0.0.1` keeps this terminal demo's published port on local loopback. Docker Desktop's GUI port mapping can bind more broadly; use it only in your isolated local lab or specify a loopback bind with terminal command above.
+
+## Video
+
+[Watch full Docker install — Linux, macOS notes and Windows](https://youtu.be/-T8iIia2uCo).

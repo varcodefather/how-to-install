@@ -15,3 +15,5 @@ These are local development labs. No AWS account needed.
 ## Videos
 
 - [Install Docker on Arch Linux — 58-second Short](https://youtube.com/shorts/sA1HwUCN-os)
+
+- [Install Docker — Linux, macOS notes and Windows](https://youtu.be/-T8iIia2uCo)
