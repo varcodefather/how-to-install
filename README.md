@@ -31,3 +31,5 @@ These are local development labs. No AWS account needed.
 - [Install Podman on Arch Linux — vertical Short](https://youtube.com/shorts/sOcd-od0e8k)
 
 - [Install Podman Desktop on Windows — vertical Short](https://youtube.com/shorts/Q-bOi1QjKnw)
+
+- [Install Rancher Desktop on Linux — vertical Short](https://youtube.com/shorts/xcfqHSYfyOU)

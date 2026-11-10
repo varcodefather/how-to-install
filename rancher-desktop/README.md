@@ -109,3 +109,5 @@ Rancher Desktop stays installed. Only the disposable website container is remove
 - [Container controls](https://docs.rancherdesktop.io/ui/containers/)
 
 - [Windows named pipe and Linux socket differences](https://docs.rancherdesktop.io/how-to-guides/using-testcontainers/)
+
+- [Install Rancher Desktop on Linux — vertical Short](https://youtube.com/shorts/xcfqHSYfyOU)
