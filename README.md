@@ -24,3 +24,9 @@ These are local development labs. No AWS account needed.
 - [Install kind — Linux, macOS notes and Windows](https://youtu.be/OkVDcEbMUOM)
 
 - [Install kind on Arch Linux — vertical Short](https://youtube.com/shorts/Cj4lSiVrenc)
+
+- [Install Podman and Podman Desktop — full walkthrough](https://youtu.be/H0Pkk0ezHwU)
+
+- [Install Podman on Arch Linux — vertical Short](https://youtube.com/shorts/sOcd-od0e8k)
+
+- [Install Podman Desktop on Windows — vertical Short](https://youtube.com/shorts/Q-bOi1QjKnw)
