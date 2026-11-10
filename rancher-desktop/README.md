@@ -48,7 +48,7 @@ Use the official DMG for your processor, drag Rancher Desktop into Applications,
 brew install --cask rancher
 ```
 
-Choose Moby, disable Kubernetes for this example, and wait for startup. These are documentation-based Mac notes; the demonstrations use Linux and Windows.
+The [Homebrew cask](https://formulae.brew.sh/cask/rancher) currently conflicts with `docker-desktop`; check that before choosing this route. Choose Moby, disable Kubernetes for this example, and wait for startup. These are documentation-based Mac notes; the demonstrations use Linux and Windows.
 
 ## Windows: current-user install
 
@@ -63,6 +63,8 @@ If WSL is missing, install it from administrator PowerShell and restart when req
 ```powershell
 wsl --install --no-distribution
 ```
+
+Stop other container engines and quit their desktop apps before starting Rancher; Windows engines can compete for the same Docker named pipe.
 
 Download the MSI from the [official release](https://github.com/rancher-sandbox/rancher-desktop/releases), review its licence and choose **Install just for you** for this localhost example. This avoids installing the privileged service for access from other machines. Open Rancher Desktop, select Moby, disable Kubernetes and wait for its WSL environment and engine to start.
 
@@ -111,3 +113,7 @@ Rancher Desktop stays installed. Only the disposable website container is remove
 - [Windows named pipe and Linux socket differences](https://docs.rancherdesktop.io/how-to-guides/using-testcontainers/)
 
 - [Install Rancher Desktop on Linux — vertical Short](https://youtube.com/shorts/xcfqHSYfyOU)
+
+- [Install Rancher Desktop on Windows — vertical Short](https://youtube.com/shorts/KI1QUeMvZaY)
+
+- [Install Rancher Desktop — Linux, macOS notes and Windows](https://youtu.be/tFCVlfKH0Qw)

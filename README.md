@@ -33,3 +33,7 @@ These are local development labs. No AWS account needed.
 - [Install Podman Desktop on Windows — vertical Short](https://youtube.com/shorts/Q-bOi1QjKnw)
 
 - [Install Rancher Desktop on Linux — vertical Short](https://youtube.com/shorts/xcfqHSYfyOU)
+
+- [Install Rancher Desktop on Windows — vertical Short](https://youtube.com/shorts/KI1QUeMvZaY)
+
+- [Install Rancher Desktop — Linux, macOS notes and Windows](https://youtu.be/tFCVlfKH0Qw)
