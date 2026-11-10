@@ -74,7 +74,7 @@ Desktop port form shown in video uses default host bind. In isolated recording V
 
 ## Videos
 
-- [Install Podman and Podman Desktop — Linux, macOS notes and Windows](https://youtu.be/H0Pkk0ezHwU)
+- [Install Podman and Podman Desktop — Linux, macOS notes and Windows](https://youtu.be/sHGzIBHeGCE)
 - [Install Podman Desktop on Windows — vertical Short](https://youtube.com/shorts/Q-bOi1QjKnw)
 - [Install Podman on Arch Linux — vertical Short](https://youtube.com/shorts/sOcd-od0e8k)
 
