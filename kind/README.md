@@ -95,3 +95,9 @@ kind get clusters
 ```
 
 Delete only your tutorial cluster. Docker, kind, and kubectl remain installed.
+
+## Video
+
+[Watch full kind install — Linux, macOS notes and Windows](https://youtu.be/OkVDcEbMUOM).
+
+[Watch Arch Linux install — vertical Short](https://youtube.com/shorts/Cj4lSiVrenc).
