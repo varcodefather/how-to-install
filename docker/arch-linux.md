@@ -52,3 +52,7 @@ docker rm install-web
 Docker stays installed; these commands remove only the test container.
 
 References: [Arch Docker package](https://archlinux.org/packages/extra/x86_64/docker/), [ArchWiki Docker guide](https://wiki.archlinux.org/title/Docker).
+
+## Video
+
+[Watch the 58-second install](https://youtube.com/shorts/sA1HwUCN-os).

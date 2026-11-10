@@ -11,3 +11,7 @@ Full videos cover Linux first, macOS notes, then Windows. Shorts cover one tool 
 Docker, kind, Podman and Podman Desktop recordings are in production. New walkthroughs will be added with their videos.
 
 These are local development labs. No AWS account needed.
+
+## Videos
+
+- [Install Docker on Arch Linux — 58-second Short](https://youtube.com/shorts/sA1HwUCN-os)
