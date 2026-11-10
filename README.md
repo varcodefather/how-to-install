@@ -6,9 +6,11 @@ Full videos cover Linux first, macOS notes, then Windows. Shorts cover one tool 
 
 | Tool and system | Walkthrough |
 | --- | --- |
+| Docker: Linux, macOS notes and Windows | [Full install walkthrough](docker/README.md) |
 | Docker on Arch Linux | [Install, run nginx and clean up](docker/arch-linux.md) |
+| kind: Linux, macOS notes and Windows | [Install, create cluster and clean up](kind/README.md) |
 
-Docker, kind, Podman and Podman Desktop recordings are in production. New walkthroughs will be added with their videos.
+Docker and kind walkthroughs are available below. Podman and Podman Desktop recordings are in production.
 
 These are local development labs. No AWS account needed.
 
